@@ -1,4 +1,7 @@
-div{
+.div{
     background-color: tomato;
     padding: 10px;
+}
+.messi{
+    border: 10px solid red;
 }
